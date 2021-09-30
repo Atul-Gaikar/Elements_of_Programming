@@ -8,6 +8,6 @@ public class Factorial {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter number: ");
 		int number = scan.nextInt();
-		mathFunction.fact(number);
+		MathFunction.fact(number);
 	}
 }
